@@ -109,10 +109,14 @@ h1 {
 }
 
 .message {
-  margin-bottom: #ccc;
+  margin-bottom: 2rem;
   height: 3rem;
 }
 
 .label-score {
   margin-bottom: 2rem;
+}
+
+.change-color {
+  color: red;
 }
